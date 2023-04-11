@@ -23,9 +23,9 @@ We use relational database to create the initial data structure for a clinic fro
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Vet-Clinic <a name="about-project"></a>
+# 📖 Clinic <a name="about-project"></a>
 
-**Vet-Clinic** is a Database We use relational database to create the initial data structure for a  clinic from a schema design
+**Clinic** is a Database We use relational database to create the initial data structure for a  clinic from a schema design
 
 ## 🛠 Built With <a name="built-with"></a>
 
