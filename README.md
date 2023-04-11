@@ -91,7 +91,7 @@ no need for deplyyment
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **add "join table" for visits**
+- [ ] **add "join table" for medical history treatments**
 - [ ] **add database schema diagram**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
