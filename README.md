@@ -71,7 +71,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/V-Blaze/Vet-Clinic
+  git clone git@github.com:edahigure/clinic.git
 ```
 
 ### Install
