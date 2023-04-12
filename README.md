@@ -46,18 +46,24 @@ We use relational database to create the initial data structure for a clinic fro
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
- - Live Demo: [netlify](No Live Demo)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+To get a local copy up and running, follow these steps.
+
 ### Prerequisites
 
-In order to run this project you need: a properly working pc or laptop and a modern web browser.
+ Postgres
+ Vscode
+ gem install rails
+
+In order to run this project you need:
+
+```sh
+ Postgres
+ Vscode
+ gem install rails
+```
 
 ### Setup
 
@@ -65,9 +71,33 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/edahigure/clinic.git
+  git clone https://github.com/V-Blaze/Vet-Clinic
 ```
 
+### Install
+
+Install this project with:
+
+```sh
+  cd my-project
+  gem install
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  rails server
+```
+
+### Run tests
+
+To run tests, run the following command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
 ### Deployment
 no need for deplyyment 
 
